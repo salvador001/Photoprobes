@@ -1,6 +1,6 @@
 
 
-<h1 align="center">#Responsive Photography Website</h1>
+<h1 align="center">Responsive Photography Website</h1>
 
 
 
