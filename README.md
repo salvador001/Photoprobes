@@ -3,12 +3,11 @@
 <h1 align="center">Responsive Photography Website</h1>
 
 
-
 - Language's used:- HTML, CSS, JS
 
 - Deployment:- [Github Pages](https://salvador001.github.io/photoprobes/)
 
-
+-Key Features:- JavaScript filters are used to filter out photo. And any one can contact us and can join our whatsapp group for intraction. 
 
 
 
